@@ -1,0 +1,12 @@
+body {
+    top: 0; 
+    left: 0; 
+    width: 99%; 
+    height: 97%; 
+    position: absolute; 
+    display: table; 
+    background-color: #181a1b;
+    color: #d8d4cf;
+}
+
+a {color: #3391FF}
